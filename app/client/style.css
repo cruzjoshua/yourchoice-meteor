@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+
+.ui.fluid.borderless.topmenu.menu {
+  font-family: 'Proxima Nova';
+  box-shadow: none;
+  border: none;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin: 0px;
+}
+
+h3 {
+  float: left;
+  margin: 0;
+}
+
+h5 {
+  float: right;
+  margin: 0;
+}
+
+body {
+  background-color: #eeeeee;
+  margin: 0;
+}
+
+#subscribeFootnote {
+  font-size: 12px;
+}
+
+.footer {
+  background-color: #dddddd;
+}
+
+.footer2 {
+  background-color: #dddddd;
+  font-size: 11px;
+  color: #999999;
+}
+
+.ui.three.column.grid.container {
+  background-color: #dddddd;
+}
+
+.ui.column.grid.container {
+  background-color: #dddddd;
+}
+
+.middle {
+  background-color: #eeeeee;
+}
+
+.mail.icon {
+  color: #ffffff;
+  background-color: #ccc;
+}
+
+.facebook.f.icon {
+  color: #ffffff;
+  background-color: #ccc;
+}
+
+.twitter.icon {
+  color: #ffffff;
+  background-color: #ccc;
+}
+
+.instagram.icon {
+  color: #ffffff;
+  background-color: #ccc;
+}
+
+#text1 {
+  font-family: 'Proxima Nova';
+  font-size: 100%;
+}
+
+
+.ui.medium.image {
+  border: 35px solid #ffffff;
+  border-radius: 4px;
+}
+
+.ui.medium.image:hover {
+  box-shadow: 0 0 20px 1px rgba(0, 140, 186, 0.5);
+}
